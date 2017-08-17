@@ -1,0 +1,5 @@
+// This header is created by checksli
+// ENTLS:1
+// TYPE/SIZE:MIX;2;[2,2,3,3,1]
+
+u0+3 <= u2 & x = 1 & Array(u0, u1) * Array(u1+1, u2) |- 0 = 0 & a0 -> (0, 0) * a1 -> (0, 0) | 0 = 0 & b0 -> (0, 0) * b1 -> (0, 0) | 0 = 0 & c0 -> (0, 0) * c1 -> (0, 0) * c2 -> (0, 0) | 0 = 0 & d0 -> (0, 0) * d1 -> (0, 0) * d2 -> (0, 0) | Ex ex1,ex2,ex4,ex5,w0,w1. u0 = w0 & u2 = w1 & ex1 = ex2 & Array(w0, w1)

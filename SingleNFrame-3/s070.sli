@@ -1,0 +1,5 @@
+// This header is created by checksli
+// ENTLS:1
+// TYPE/SIZE:ARY;4;[4]
+
+Ex ex1,ex2. v2 = v3 & v0 = v1 & Array(v2, v2) * Array(v0, v0) * Array(a1, a1) * Array(a3, a3) |- Ex ex1,ex2. 0 = 1 & Array(ex1, ex1) * Array(ex1, ex1) * Array(v1, v1) * Array(v3, v3)
