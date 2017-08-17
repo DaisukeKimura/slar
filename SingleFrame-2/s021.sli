@@ -1,0 +1,5 @@
+// This header is created by checksli
+// ENTLS:1
+// TYPE/SIZE:PTO;4;[3]
+
+tempx8 = 20 & 3 < tempx9 & tempx9 = 20 & 3 < tempx10 & tempx10 = 20 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & v0 -> (0, 0) * 3 -> (40, 20) * 4 -> (1, tempx17+1) * 5 -> (0, 0) |- Ex u. u = 3 & tempx8 = 20 & 3 < tempx9 & tempx9 = 20 & 3 < tempx10 & tempx10 = 20 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & u -> (40, 20) * u+1 -> (1, tempx17+1) * v0 -> (0, 0)
