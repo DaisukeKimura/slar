@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:MIX;2;[3,3,4,4,2]
+// RESULT:Invalid
 
 3 < tempx8 & tempx8 = 20 & tempx9 = 20 & tempx10 = 20 & 3 < tempx11 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & Array(y, y) * Array(x, x) |- 0 = 0 & a0 -> (0, 0) * a1 -> (0, 0) * a2 -> (0, 0) | 0 = 0 & b0 -> (0, 0) * b1 -> (0, 0) * b2 -> (0, 0) | 0 = 0 & c0 -> (0, 0) * c1 -> (0, 0) * c2 -> (0, 0) * c3 -> (0, 0) | 0 = 0 & d0 -> (0, 0) * d1 -> (0, 0) * d2 -> (0, 0) * d3 -> (0, 0) | 3 < tempx8 & tempx8 = 20 & tempx9 = 20 & tempx10 = 20 & 3 < tempx11 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & Array(y, tempx11) * Array(tempx13, tempx14)
