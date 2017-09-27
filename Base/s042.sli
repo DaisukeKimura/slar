@@ -1,0 +1,6 @@
+// This header is created by checksli
+// ENTLS:1
+// TYPE/SIZE:ARY;2;[2]
+// RESULT:Valid
+
+tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & Array(y, y) * Array(y+1, y+1) |- Ex y1,x1. tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & Array(y1, y1) * Array(x1, x1)

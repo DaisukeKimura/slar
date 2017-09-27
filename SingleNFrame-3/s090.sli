@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:MIX;4;[3]
+// RESULT:Valid
 
 v1 = v2 & tempx9 = 20 & 3 < tempx10 & tempx10 = 20 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & 0 =/ 0 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & v3 -> (0, 0) * Array(v1, v1) * v0 -> (0, 0) * v0+1 -> (0, 0) |- Ex v4,u,v. u+1 = x & v = y & tempx9 = 20 & 3 < tempx10 & tempx10 = 20 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & Array(v0, v0+1) * Array(v2, v2) * v4 -> (0, 0)

@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:PTO;3;[3]
+// RESULT:Invalid
 
 3 < tempx8 & tempx8 = 20 & tempx9 = 20 & tempx10 = 20 & 3 < tempx11 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & v0 -> (0, 0) * y -> (y, y) * x -> (x, x) |- Ex v1,y1,x1,x2. x1 =/ x2 & y = y1 & 3 < tempx8 & tempx8 = 20 & tempx9 = 20 & tempx10 = 20 & 3 < tempx11 & tempx11 = 20 & tempx12 = 20 & tempx13 = 20 & tempx14 = 20 & tempx15 = tempx17+1 & y =/ 0 & tempx17 = 1 & w = 0 & z = 0 & ex7 = 0 & y1 -> (y1, y1) * x -> (x1, x2) * v1 -> (0, 0)

@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:PTO;3;[3]
+// RESULT:Valid
 
 Ex ex7,ex8,ex9. s = 100 & a2 = ret & ret = a1 & ex9 = 0 & ex8 = 0 & a4 = 0 & ex7 = 0 & ex7 = 0 & v0 -> (0, 0) * a1 -> (100, 200) * a3 -> (0, 0) |- Ex v1,ex7,ex8,ex9. s = 100 & a2 = ret & ret = a1 & ex9 = 0 & ex8 = 0 & a4 = 0 & ex7 = 0 & ex7 = 0 & a1 -> (100, 200) * a3 -> (0, 0) * v1 -> (0, 0)

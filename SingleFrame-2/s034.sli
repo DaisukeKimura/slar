@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:PTO;3;[3]
+// RESULT:Invalid
 
 Ex ex1,ex2. v0 -> (0, 0) * a1 -> (ex1, ex2) * a3 -> (0, 0) |- Ex ex1,ex2,a11,a31. a1 =/ a11 & a3 = a31 & a11 -> (ex2, ex1) * a3 -> (0, 0) * v0 -> (0, 0)

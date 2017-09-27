@@ -1,5 +1,6 @@
 // This header is created by checksli
 // ENTLS:1
 // TYPE/SIZE:ARY;4;[4]
+// RESULT:Invalid
 
 Ex ex1,ex2. Array(v1, w1) * Array(v0, w0) * Array(a1, a1) * Array(a3, a3) |- Ex ex1,ex2,a11,a31. a1 =/ a11 & a3 = a31 & Array(ex1, ex1) * Array(a11, a1) * Array(v0, w0) * Array(v1, w1)
